@@ -1,36 +1,33 @@
 # RoboticsND-Build-My-World
 Designing of a gazebo World Environment including multiple models for using in future projects
 
+## Structure
 
-
-
-# Structure
-
-# Model folder
+### Model folder
 
 Contains the robot and the structure to be used in the Gazebo World. 
 
-# World folder
+### World folder
 
 Includes the Gazebo Worls file with the models.
 
-# Script folder
+### Script folder
 Here we include teh Gazebo world plugin C++ script.
 
-# CMakeList.txt
+### CMakeList.txt
 
-# File structure
+## File structure
 
-# Setup
+## Setup
 
-1 - Install Gazebo and ROS.
-2 - Clone the repository to your local directory:
+1. Install Gazebo and ROS.
+2. Clone the repository to your local directory:
 
 
-$ git clone 
-$ cd 
+  $ git clone 
+  $ cd 
 
-3 - Open it with Gazebo
+3. Open it with Gazebo
 
-$ gazebo world/project1_world
+  $ gazebo world/project1_world
 
